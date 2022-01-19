@@ -1,0 +1,11 @@
+.calva
+.lsp
+.clj-kondo/.cache
+.cpcache
+Logs
+Library
+Assets/Arcadia
+Assets/XR
+Assets/XRI
+Samples
+Arcadia

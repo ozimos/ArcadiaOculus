@@ -1,0 +1,3 @@
+{:paths ["Assets"]
+ :deps {org.clojure/clojure {:mvn/version "1.10.3"}
+        sicmutils/sicmutils  {:mvn/version "0.20.1"}}}

@@ -1,0 +1,1 @@
+{:reactive true, :compiler-options {}, :reload-on-change true, :non-serializable-hooks :warning, :nudge true, :nrepl-auto-completion true, :source-paths ["Assets/game"], :export-namespaces [arcadia-demo.core]}
